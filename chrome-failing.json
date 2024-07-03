@@ -1,0 +1,8 @@
+{
+  "failing": [
+    "OOPIF should recover cross-origin frames on reconnect"
+  ],
+  "pending": [
+    "BFCache can call a function exposed on a page restored from bfcache"
+  ]
+}
